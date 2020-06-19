@@ -12,6 +12,7 @@
 <body>
 
 	hello git	
+	이건 아직 commit 안된건데 커밋을 한 후에 되돌릴 수 있을까?
 
 </body>
 
